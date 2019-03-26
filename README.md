@@ -1,4 +1,4 @@
-# hacker news API mobile client
+# Flutter Hacker News API mobile client
 
 A flutter moble application consuming the [Hacker news API](https://github.com/HackerNews/API) using BLOC pattern for state management
 
